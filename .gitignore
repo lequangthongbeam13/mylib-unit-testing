@@ -1,0 +1,13 @@
+# Dependencies (re-created with npm install)
+node_modules/
+
+# Environment and secret files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
